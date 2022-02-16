@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/8aa2b5f6283a5d74b7f38c476c89d033_lec11.pdf
+file: /media/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/8aa2b5f6283a5d74b7f38c476c89d033_lec11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec11.pdf
 uid: 8aa2b5f6-283a-5d74-b7f3-8c476c89d033

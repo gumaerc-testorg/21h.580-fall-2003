@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/06fb0d867529f880c58a96e1cc60335c_geographyquiz.pdf
+file: /media/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/06fb0d867529f880c58a96e1cc60335c_geographyquiz.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: geographyquiz.pdf
 uid: 06fb0d86-7529-f880-c58a-96e1cc60335c

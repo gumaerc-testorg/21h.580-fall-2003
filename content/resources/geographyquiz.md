@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 1b8c326e-a613-1f6b-85fa-be04fee81991
 resourcetype: Document
 title: geographyquiz.pdf
 uid: 06fb0d86-7529-f880-c58a-96e1cc60335c

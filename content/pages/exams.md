@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review items for the midterm geography quiz and
+  the midterm exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Exams
 uid: 1b8c326e-a613-1f6b-85fa-be04fee81991
 ---
 
-Review Items for Midterm Geography Quiz ([PDF]({{< baseurl >}}/resources/geographyquiz))
+Review Items for Midterm Geography Quiz ({{% resource_link 06fb0d86-7529-f880-c58a-96e1cc60335c "PDF" %}})
 
 Midterm Exam
 ------------

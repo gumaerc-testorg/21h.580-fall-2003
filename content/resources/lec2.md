@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/e16ba200af24458987ee9b2c77b8dc75_lec2.pdf
+file_size: 118359
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

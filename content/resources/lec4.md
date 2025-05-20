@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/09e1282dfbc531b66a616849561c5542_lec4.pdf
+file: /courses/21h-580-from-the-silk-road-to-the-great-game-china-russia-and-central-eurasia-fall-2003/09e1282dfbc531b66a616849561c5542_lec4.pdf
 file_size: 60904
 file_type: application/pdf
 learning_resource_types:

@@ -21,12 +21,12 @@ Foltz, Richard. *Religions of the Silk Road*. Palmgrave Macmillan Publishers, 20
 
 Hopkirk, Peter. *The Great Game: The Struggle for Empire in Central Asia.* Oxford: Oxford University Press, 1991.
 
-Kipling, Rudyard. *Kim.* (\[Download from Project Gutenberg\]({{% resource_link "8af3b4d6-1162-4bba-a699-4aedf2e58e3b" "http://www.gutenberg.org/browse/BIBREC/BR2226.HTM" %}}        
+Kipling, Rudyard. *Kim.* (\[Download from Project Gutenberg\]([http://www.gutenberg.org/browse/BIBREC/BR2226.HTM](http://www.gutenberg.org/browse/BIBREC/BR2226.HTM)        
 ))
 
 Xinru, Liu and Hsin-Ju Liu. *The Silk Road: Overland Trade and Cultural Interaction.* American Historial Association, 1998.
 
-Polo, Marco and Rustichiello of Pisa. *The Book of Marco Polo.* (\[Download Volume 1 from Project Gutenberg\]({{% resource_link "437b59ed-da7e-4b05-a5a5-fc16b2b2ae5c" "http://www.gutenberg.org/browse/BIBREC/BR10636.HTM" %}}        
+Polo, Marco and Rustichiello of Pisa. *The Book of Marco Polo.* (\[Download Volume 1 from Project Gutenberg\]([http://www.gutenberg.org/browse/BIBREC/BR10636.HTM](http://www.gutenberg.org/browse/BIBREC/BR10636.HTM)        
 ))
 
 Rossabi, Morris. *Khubilai Khan: His Life and Times.* University of California Press, 1990.
